@@ -5,7 +5,7 @@ import pickle as pk
 #from streamlit_option_menu import option_menu
 #import matplotlib.pyplot as plt
 import base64
-from sklearn import svm
+#from sklearn import svm
 #import seaborn as sns
 
 
