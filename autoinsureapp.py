@@ -4,15 +4,9 @@ import numpy as np
 import pickle as pk
 #from streamlit_option_menu import option_menu
 #import matplotlib.pyplot as plt
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score
-from sklearn.metrics import precision_score
-from sklearn.metrics import recall_score
-from sklearn.metrics import f1_score
-from sklearn.metrics import confusion_matrix,classification_report 
 import base64
 from sklearn import svm
-import seaborn as sns
+#import seaborn as sns
 
 
 st.set_page_config(page_title='Auto Insurance Fraud Claim',layout='centered')
